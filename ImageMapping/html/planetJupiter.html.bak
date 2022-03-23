@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Jupiter</title>
+	<style type="text/css">
+		body{
+			text-align:center;
+			color:magenta;
+			font-family:Verdana;
+			font-size:20px;
+			background-color: #e6e18e;
+			margin: 60px;
+		}
+		p {
+			color: #751d5e;
+			background-color: #ebcae2;
+		}
+		img {
+		height:250px;
+		width:300px;
+		}
+		
+	</style>
+</head>
+<body>
+	<link rel="stylesheet" type="text/css">
+	<!--LARAGAN, JULIANNE GAYLE-->
+	<!--03/22/22-->
+	<h1>Jupiter</h1>
+	<div align="center">
+		<img src="../Images/Jupiter.jpg" alt="Jupiter" >
+	</div>
+	<p></blockquote>Jupiter is the largest planet in the solar system, named after the king of the gods in Roman mythology.
+	The gas giant Jupiter is a stormy enigma, wrapped in colorful clouds whipped by strong winds that sweep below circles of 
+	rings and moons. Jupiter is gigantic: The planet contains more than twice the mass of all the other solar system planets 
+	combined. Its biggest and most famous storm, the Great Red Spot, is twice the width of Earth.</p></blockquote>
+</body>
+</html>
+			
